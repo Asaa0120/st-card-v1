@@ -35,7 +35,7 @@ body {
     
     /* 關鍵：圖片路徑 */
     /* 使用相對路徑 '../images/' 指向倉庫裡的圖片資料夾 */
-    background-image: url('../images/map.jpg'); 
+    background-image: url('https://cdn.jsdelivr.net/gh/Asaa0120/st-card-v1@main/images/map.jpg'); 
     background-size: 100% 100%; /* 強制填滿，確保座標不跑版 */
     background-repeat: no-repeat;
     
